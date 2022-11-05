@@ -1,0 +1,108 @@
+// you-tutorial/ with fb key generation
+https://youtu.be/bnZUyHNaxfU
+
+// firebase setup for all ios/ android/ Web
+https://youtu.be/PbUTQTMBFVI
+
+// add core to pubspec.yaml
+https://pub.dev/packages/firebase_core
+
+https://firebase.flutter.dev/docs/overview
+
+
+// change display name
+https://youtu.be/L9an5kN3C4E
+
+com.example.flutter_crud_firebase_api
+com.digitalflutter.fluttercrudfb
+
+// Change package name
+https://youtu.be/q38Zrvk-H8o
+
+
+// Table
+https://www.fluttercampus.com/guide/29/how-to-create-table-with-row-and-column-in-flutter-app/
+
+https://medium.flutterdevs.com/explore-table-in-flutter-28726b28b5d6
+
+https://www.tutorialkart.com/flutter/flutter-table/
+
+https://www.geeksforgeeks.org/table-widget-in-flutter/
+
+// Android Key fb
+
+Variant: debug
+Config: debug
+Store: /Users/cnmini/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 1E:38:58:93:6F:C4:91:A3:58:F1:93:5A:8F:75:8D:0C
+SHA1: 97:95:0F:76:AC:0D:87:E3:AA:C7:D4:30:F2:D7:C6:E8:A4:E7:A6:9F
+SHA-256: 86:73:A7:16:D4:DD:D2:19:41:DA:DD:01:80:AE:13:4D:4D:34:73:9E:BD:43:CB:B8:F0:07:EA:01:BE:CB:F7:D0
+Valid until: Saturday, 31 August, 2052
+----------
+Variant: release
+Config: debug
+Store: /Users/cnmini/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 1E:38:58:93:6F:C4:91:A3:58:F1:93:5A:8F:75:8D:0C
+SHA1: 97:95:0F:76:AC:0D:87:E3:AA:C7:D4:30:F2:D7:C6:E8:A4:E7:A6:9F
+SHA-256: 86:73:A7:16:D4:DD:D2:19:41:DA:DD:01:80:AE:13:4D:4D:34:73:9E:BD:43:CB:B8:F0:07:EA:01:BE:CB:F7:D0
+Valid until: Saturday, 31 August, 2052
+----------
+Variant: profile
+Config: debug
+Store: /Users/cnmini/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 1E:38:58:93:6F:C4:91:A3:58:F1:93:5A:8F:75:8D:0C
+SHA1: 97:95:0F:76:AC:0D:87:E3:AA:C7:D4:30:F2:D7:C6:E8:A4:E7:A6:9F
+SHA-256: 86:73:A7:16:D4:DD:D2:19:41:DA:DD:01:80:AE:13:4D:4D:34:73:9E:BD:43:CB:B8:F0:07:EA:01:BE:CB:F7:D0
+Valid until: Saturday, 31 August, 2052
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/cnmini/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 1E:38:58:93:6F:C4:91:A3:58:F1:93:5A:8F:75:8D:0C
+SHA1: 97:95:0F:76:AC:0D:87:E3:AA:C7:D4:30:F2:D7:C6:E8:A4:E7:A6:9F
+SHA-256: 86:73:A7:16:D4:DD:D2:19:41:DA:DD:01:80:AE:13:4D:4D:34:73:9E:BD:43:CB:B8:F0:07:EA:01:BE:CB:F7:D0
+Valid until: Saturday, 31 August, 2052
+----------
+
+
+
+// For Web firebase
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyCdfx8NxLhyR10HM3XDdXHFHIHVxSBfiZo",
+  authDomain: "fluttercrud-9624d.firebaseapp.com",
+  projectId: "fluttercrud-9624d",
+  storageBucket: "fluttercrud-9624d.appspot.com",
+  messagingSenderId: "713647887431",
+  appId: "1:713647887431:web:bee0cb3132f5f3ea0f4d62",
+  measurementId: "G-8B3K0K73HV"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
+
+
+// Android Build
+https://stackoverflow.com/questions/49695393/how-to-build-apk-create-old-version-app-in-flutter
+
+
+
+
+
+
+
+
+
+
